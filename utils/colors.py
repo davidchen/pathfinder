@@ -1,0 +1,21 @@
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+CYAN = (0, 191, 255)
+DARK_CYAN = (0, 100, 255)
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+PINK = (255, 200, 200)
+LIGHT_GRAY = (245, 245, 245)
+BROWN = (139, 69, 19)
+DARK_GRAY = (105, 105, 105)
+GRASS_GREEN = (44, 176, 55)
+DARK_GREEN = (34, 139, 34)
+YELLOW = (255, 255, 0)
+PURPLE = (255, 0, 255)
+
+
+
+gradient_color_1 = (37, 76, 89)
+gradient_color_2 = (190, 36, 53)
+
+COLORS = [RED,GREEN,CYAN,BROWN,YELLOW]

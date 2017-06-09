@@ -1,0 +1,27 @@
+INSTRUCTIONS:
+
+Click on any cell for info.
+-------------------------------------
+[CURRENT H]
+[CURRENT A*w]
+[CURRENT w1]
+[CURRENT w2]
+-------------------------------------
+Keyboard shortcuts:
+G: new start/goal nodes
+N: new map
+C: clear paths and labels
+RIGHT ARROW: weight to change
+UP ARROW: increase weight
+DOWN ARROW: decrease weight
+U: uniform cost search
+A: A* search
+W: weighted A* search
+S: sequential A* search
+I: integrated A* search
+1: set heuristic as Chebyshev
+2: set heuristic as Manhattan
+3: set heuristic as Euclidean
+4: set heuristic as Inadmissible
+5: set heuristic as Admissible
+Esc: close and exit program
