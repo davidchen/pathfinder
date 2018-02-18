@@ -1,4 +1,6 @@
 Report Phase 1.pdf
 Report Phase 2.pdf
-venv
+*venv*
+*pycache*
 misc
+.idea
